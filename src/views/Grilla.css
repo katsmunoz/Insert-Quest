@@ -1,6 +1,5 @@
-@media (min-width: 768px) {}
-
-.col-sidebar {
+@media (min-width: 768px) {
+  .col-sidebar {
   width: 20%;
 }
 
@@ -16,3 +15,6 @@
   flex: none;
   display: flex;
 }
+
+}
+

@@ -1,3 +1,4 @@
+
 import React from "react";
 import "./Order.css";
 import Trash from "../images/delete.png";
@@ -19,7 +20,7 @@ const Order = (props) => (
           onClick={() => props.removeItem(item, index)}
           className="icon-btn"
         >
-          <img className="icon-delete" src={Trash} />
+          <img className="icon-delete" src={Trash} alt="trashcan-btn"/>
         </button>
       </div>
     ))}
