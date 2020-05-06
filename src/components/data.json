@@ -1,0 +1,131 @@
+[
+  {
+  "name": "Hamburguesas",
+  "items": [{
+        "id": 1,
+        "name": "Pikachu vegan",
+        "price": 5200,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "name": "Pikachu vacuno",
+        "price": 5200,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "name": "Krilin vegan",
+        "price": 5400,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "name": "Krilin vacuno",
+        "price": 5400,
+        "image": ""
+      },
+      {
+        "id": 5,
+        "name": "Link",
+        "price": 5400,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Agregados",
+    "items": [{
+        "id": 6,
+        "name": "Papas fritas",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "name": "Chips de camote",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "name": "Sonic rings",
+        "image": ""
+      }
+    ]
+  }, 
+  {
+    "name": "Compartir",
+    "items": [{
+        "id": 9,
+        "name": "Papas insert coin",
+        "price": 5900,
+        "image": ""
+      },
+      {
+        "id": 10,
+        "name": "Papas vegetarianas",
+        "price": 5900,
+        "image": ""
+      },
+      {
+        "id": 11,
+        "name": "Sonic rings",
+        "price": 3400,
+        "image": ""
+      }
+    ]
+  }, 
+  {
+    "name": "Tragos",
+    "items": [{
+        "id": 12,
+        "name": "Donkey Kong",
+        "price": 4200,
+        "image": "https://firebasestorage.googleapis.com/v0/b/burger-queen-5875f.appspot.com/o/cocktail.png?alt=media&token=b8a42c87-f8fb-4515-aa6a-40dafa7cfc5c",
+        "type": ["Tematicos"]
+      },
+      {
+        "id": 13,
+        "name": "Sub-zero",
+        "price": 3500,
+        "image": "",
+        "type": ["Tematicos"]
+      },
+      {
+        "id": 14,
+        "name": "Kirby",
+        "price": 5400,
+        "image": "",
+        "type": ["Tematicos"]
+      },
+      {
+        "id": 15,
+        "name": "Mojito",
+        "price": 2900,
+        "image": "",
+        "type": ["Cocktails"]
+      },
+      {
+        "id": 16,
+        "name": "Margarita",
+        "price": 2900,
+        "image": "",
+        "type": ["Cocktails"]
+      },
+      {
+        "id": 17,
+        "name": "Schop carlsberg",
+        "price": 2900,
+        "image": "",
+        "type": ["Cervezas"]
+      },
+      {
+        "id": 18,
+        "name": "Schop kunstman torobayo",
+        "price": 3500,
+        "image": "",
+        "type": ["Cervezas"]
+      }
+
+    ]
+  }
+]

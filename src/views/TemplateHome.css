@@ -1,0 +1,38 @@
+.navBar {
+    display: block;
+}
+
+.home-logo {
+    width: 60%;
+    height: auto;
+}
+
+.btn-chef,.btn-waiter{
+    text-transform: uppercase;
+    padding: 30px 40px;
+    border-radius: 15px;
+    color:whitesmoke;
+}
+.btn-waiter, .btn-chef {
+    background-color: #d9bf4e;
+    
+}
+
+.btn-chef:focus, .btn-chef:hover, .btn-waiter:focus, .btn-waiter:hover{
+    background: rgb(187, 156, 84);
+    color:whitesmoke;
+}
+
+.waiter{
+    padding-right: 30px;
+    text-align: right;
+}
+.chef{
+    padding-left: 30px;
+    text-align: left;
+}
+.img-waiter, .img-chef{
+    height: 8em;
+    width: 8em;
+
+}

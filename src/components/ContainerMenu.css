@@ -1,0 +1,21 @@
+.Col-items {
+  flex: 1 1 auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  text-align-last: center;
+  align-content: center;
+}
+
+
+@media (min-width: 768px) {
+  .menu {
+    flex-basis: auto;
+    align-items: stretch;
+  }
+
+  .Row-card {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+}

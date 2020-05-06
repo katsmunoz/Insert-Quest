@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+  .navBar {
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+  }
+
+  .bg-dark {
+    color: #d9bf4e !important;
+    background-color: #241e1e !important;
+  }
+}

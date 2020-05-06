@@ -1,0 +1,40 @@
+@media (min-width: 768px) {
+  .Order-detail {
+    display: inline;
+  }
+
+  .numberTable {
+    display: inline;
+  }
+
+  .number {
+    width: 90%;
+  }
+
+  .order-items {
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .btn-send {
+    display: block;
+    font-size: 20px;
+    color: #d9bf4e;
+    width: 30%;
+    background-color: #241e1e;
+    border: none;
+    transition: .4s;
+  }
+
+  .icon-delete {
+    background-color: white;
+    width: 100%;
+  }
+
+  .icon-btn {
+    background-color: white;
+    width: 10%;
+    border-color: none;
+  }
+}
