@@ -4,6 +4,8 @@
 
 Insert Quest es una aplicación para tablets diseñada para el pub gamer Insert Coin, donde se puedan tomar órdenes y mandar comandas a cocina sin necesidad de recurrir al papel y lápiz.
 
+[Enlace deploy](https://burger-queen-5875f.web.app/)
+
 ## Definición de Usuario 👥
 
 Para definir a nuestros usuarios, tomamos en cuenta usuarios que sean nativos digitales, y que trabajen o hayan trabajado como meserxs y cocinerxs o chef en un restaurant o pub.
